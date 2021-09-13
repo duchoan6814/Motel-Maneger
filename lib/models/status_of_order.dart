@@ -1,0 +1,4 @@
+enum StatusOfOrder {
+  PAID,
+  UNPAID
+} 
